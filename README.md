@@ -2,8 +2,8 @@
 
 This repo holds the code of a simple 2D object annotator for the object detection task, and the annotation structure is shown as follow:
 ```
-{"img1.jpg":[{"bbox":[xmin,ymin,w,h],"class":id}],
-"img2.jpg":[{"bbox":[xmin,ymin,w,h],"class":id}]}
+{"img1.jpg":[{"bbox":[xmin,ymin,width,height],"class":id}],
+"img2.jpg":[{"bbox":[xmin,ymin,width,height],"class":id}]}
 ```
 ![Figure0](./pics/figure0.png)
 
