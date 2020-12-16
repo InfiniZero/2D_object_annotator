@@ -1,7 +1,6 @@
 # 2D Object Annotator
 
-This repo holds the code of a simple 2D object annotator for the object detection task.
-The type of annotation:
+This repo holds the code of a simple 2D object annotator for the object detection task, and the annotation structure is shown as follow:
 ```
 {"img1.jpg":[{"bbox":[xmin,ymin,w,h],"class":id}],
 "img2.jpg":[{"bbox":[xmin,ymin,w,h],"class":id}]}
